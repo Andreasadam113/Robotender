@@ -4,7 +4,7 @@ import PySimpleGUI as sg
 addr = 0x8 # bus address
 bus = SMBus(1) # indicates /dev/ic2-1
 
-
+#djgddf
 drank_layout = [
     [sg.Button('Wodka energy')],
     [sg.Button('Wodka cola')],
